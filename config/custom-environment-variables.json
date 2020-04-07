@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "mysecretkey",
+  "mongoProdDb": "mongo-production-db"
+}
